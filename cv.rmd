@@ -189,7 +189,7 @@ CV %<>% print_section('teaching_positions')
 
 
 
-Selected Publications adn Posters {data-icon=book}
+Selected Publications and Posters {data-icon=book}
 --------------------------------------------------------------------------------
 
 ```{r}
